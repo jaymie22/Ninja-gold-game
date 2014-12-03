@@ -1,0 +1,82 @@
+#wrapper{
+	padding: 20px;
+	margin: 0 auto;
+	width: 870px;
+	
+}
+
+#container_forms{
+	text-align: center;
+}
+
+	#container_forms .gold{
+		font-size: 2em;
+		font-weight: bold;
+	}
+
+	#container_forms form{
+		border: 1px solid black;
+		width: 200px;
+		display:inline-block;
+		vertical-align: top;	
+		padding: 10px 0;
+	}
+
+h2{
+	text-align: center;
+	margin: 15px;
+}
+
+#activities_box{
+	border: 1px solid blue;
+	margin: 10px auto;
+	width: 750px;
+	height: 200px;
+	overflow: auto;
+	padding: 10px 20px;
+}
+
+	.green{
+		color: green;
+	}
+
+	.red{
+		color: red;
+	}
+
+	#activities_box p{
+		margin: 10px auto;
+	}
+
+.reset{
+	text-align: right;
+	color: red;
+	margin-left: 90%;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
